@@ -1,0 +1,55 @@
+.box {
+	border: 1px solid black;
+	font-size: 0px;
+}
+
+.box-parent {
+	width: 800px;
+	height: 500px;
+	margin: auto auto;
+
+
+	}
+
+.top-box {
+
+	width: 100%;
+	height: 200px;
+	display: inline-block;
+}
+
+.bottom-box {
+	width: 100%;
+	height: 300px;
+	display: inline-block;
+
+}
+
+.green-box {
+	background: green;
+	width: 50%;
+	height: 100%;
+	
+
+}
+.blue-box {
+	background: blue;
+	width: 50%;
+	height: 100%;
+	
+}
+.one-third-first{
+	background: grey;
+	width:33.3%;
+	height:300px;
+}
+.one-third-second{
+	background: black;
+	width:33.3%;
+	height:300px;
+}
+.one-third-third{
+	background: orange;
+	width:33.3%;
+	height:300px;
+}
